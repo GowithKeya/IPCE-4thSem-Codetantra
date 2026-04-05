@@ -1,0 +1,24 @@
+// 39.2.3 MyException.java
+package q11338;
+
+public class MyException {
+    public static void main(String[] args) {
+        try {
+            int x = Integer.parseInt(args[0]);
+
+            if (x < 25 || x > 50)
+                throw new NumberRangeException();
+            else
+                System.out.println("Given number : " + x);
+        } catch (NumberRangeException e) {
+            System.out.println("Please enter a number between 25 and 50");
+            System.out.println(e.getClass().getName());
+        }
+    }
+}
+
+class NumberRangeException extends Exception {
+    public NumberRangeException() {
+        super("Please enter a number between 25 and 50");
+    }
+}
