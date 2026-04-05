@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-  <b>Hello Coders!</b> <br> 
+  <b>Hello Geeks!</b> <br> 
   <img src="http://maothao.github.io/mao-historicizing/imgs/welcome.gif" height="130"> 
   <br><br> 
   This repository contains my Codetantra solutions for <b>IPCE (2nd Year, 4th Semester)</b>.  
@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-  <b>🔹 Object Oriented Programming with Java (BCS403)</b> <br>
+  <b>🔹 Object Oriented Programming with Java </b> <br>
   Covers OOP concepts like classes, objects, inheritance, polymorphism, etc.
 </p>
 
