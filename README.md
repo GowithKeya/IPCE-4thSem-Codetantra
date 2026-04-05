@@ -45,34 +45,6 @@
 
 ---
 
-## 📂 Repository Structure
-IPCE-4THSEM-CODETANTRA/
-│
-├── C_Programming_CBP_Lab_2/
-├── OOP_With_Java/
-└── README.md
-
-
----
-
-## 🚀 Features
-
-- 📌 Well-organized solutions  
-- 💻 Clean and understandable code  
-- 📚 Useful for revision  
-- 🎯 Covers important Codetantra problems  
-
----
-
-## ⚠️ Disclaimer
-
-This repository is for **educational purposes only**.
-
-> ❌ Do not copy-paste directly for submissions  
-> ✅ Understand the logic and then implement  
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
